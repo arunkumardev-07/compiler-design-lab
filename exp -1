@@ -289,7 +289,7 @@ char *NFA_TABLE[states][symbols + 1];
 
 ## OUTPUT 
 
-![image](https://github.com/Arunkumar/19CS409-Compiler-Design-Lab/assets/119393929/462c556a-6da8-468e-95e7-606302e2edbb)
+![image](https://github.com/HamsiniKannan/19CS409-Compiler-Design-Lab/assets/119393929/462c556a-6da8-468e-95e7-606302e2edbb)
 
 ## RESULT
 Program to convert NFA to DFA has been implemented.
